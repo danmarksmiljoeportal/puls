@@ -1,0 +1,1 @@
+nswag swagger2csclient /input:https://puls-api.demo.miljoeportal.dk/swagger/v1/swagger.json /classname:PulsClient /namespace:Dmp.Examples.PulsIntegration /output:PulsClient.cs
