@@ -26,7 +26,7 @@ namespace Dmp.Examples.PulsIntegration
             Console.WriteLine("Initializing PULS client");
             var pulsClient = new PulsClient(pulsEndpoint, httpClient);
 
-            await BathingwaterStationExamples.SubmitSchedule(pulsClient);
+            //await BathingwaterStationExamples.SubmitSchedule(pulsClient);
 
             await WwtpExamples.GetSamples(pulsClient);
             await WwtpExamples.GetVolumes(pulsClient);
