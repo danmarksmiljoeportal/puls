@@ -6,9 +6,9 @@ Please note that the production API is not yet published. The expected release d
 
 | Environment | Endpoint |
 | --- | --- |
-| Production | https://puls-api.miljoeportal.dk/swagger/v1/swagger.json |
-| Demo | https://puls-api.demo.miljoeportal.dk/swagger/v1/swagger.json |
-| Test | https://puls-api.test.miljoeportal.dk/swagger/v1/swagger.json |
+| Production | https://puls-api.miljoeportal.dk/openapi |
+| Demo | https://puls-api.demo.miljoeportal.dk/openapi |
+| Test | https://puls-api.test.miljoeportal.dk/openapi |
 
 ## Security and Authorization
 
