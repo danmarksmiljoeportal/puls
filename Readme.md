@@ -1,8 +1,5 @@
 # PULS
-The OpenAPI Specification is available on the following URL:
-https://stanlab.test.miljoeportal.dk/openapi/v1/stanlab.json
-
-Please note that the production API is not yet published. The expected release date is January 2020.
+The OpenAPI Specification is available on the following URLs:
 
 | Environment | Endpoint |
 | --- | --- |
